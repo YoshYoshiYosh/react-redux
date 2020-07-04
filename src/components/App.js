@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {increment, decrement} from './actions/index.js';
+import {increment, decrement} from '../actions/index.js';
 
 const App = () => <Counter />
 
